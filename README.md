@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Quan Cao!
 
-<!--
-**qcaodigital/qcaodigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Aspiring MERN developer — [now looking for work! _(resume)_](https://www.qcao.dev)_  
+_Webmaster/Photographer at [Cocktail Curations.](https://www.cocktailcurations-shop.com)_
 
-Here are some ideas to get you started:
+## A little more about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const quan = {
+	lastName: 'Cao',
+	languages: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+	tools: [
+		'React, Node, Express, Mongo, NextJS, jQuery, SASS/SCSS, Webpack, Framer Motion, Photoshop',
+	]
+};
+```
