@@ -13,3 +13,5 @@ const quan = {
   hobbies: ['photography', 'fishing', 'music', 'guitars', 'gaming', 'technology']
 };
 ```
+
+I love challenging myself and rising to the occasion to solve a problem. Always open to chatting so don't be shy!
