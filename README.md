@@ -7,9 +7,9 @@ _Webmaster/Photographer at [Cocktail Curations.](https://www.cocktailcurations-s
 
 ```javascript
 const quan = {
-	lastName: 'Cao',
-	languages: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-	tools: ['React, Node, Express, Mongo, NextJS, jQuery, SASS/SCSS, Webpack, Framer Motion, Photoshop'],
-	hobbies: ['photography', 'fishing', 'music', 'guitars', 'gaming', 'technology']
+  lastName: 'Cao',
+  languages: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+  tools: ['React, Node, Express, Mongo, NextJS, jQuery, SASS/SCSS, Webpack, Framer Motion, Photoshop'],
+  hobbies: ['photography', 'fishing', 'music', 'guitars', 'gaming', 'technology']
 };
 ```
