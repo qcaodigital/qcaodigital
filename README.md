@@ -5,12 +5,10 @@ _Webmaster/Photographer at [Cocktail Curations.](https://www.cocktailcurations-s
 
 ## A little more about me...
 
-```
+```javascript
 const quan = {
 	lastName: 'Cao',
 	languages: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-	tools: [
-		'React, Node, Express, Mongo, NextJS, jQuery, SASS/SCSS, Webpack, Framer Motion, Photoshop'
-	]
+	tools: ['React, Node, Express, Mongo, NextJS, jQuery, SASS/SCSS, Webpack, Framer Motion, Photoshop'],
 };
 ```
